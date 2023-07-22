@@ -4,7 +4,7 @@
 
 <h1 align="center">LINK+</h1>
 <p align="center"><b>一款多功能集成、跨平台、高兼容性的键盘助手</b></p>
-<p align="center">中文 | <a href="README.md">English</a> </p>
+<p align="center">中文 | <a href="README.en.md">English</a> </p>
 
 ## LINK+
 
