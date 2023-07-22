@@ -22,7 +22,7 @@ LINK+ 是 LINK 的后继者，是由我们在 LINK 的基础上进行全面重�
 
 ## 文档
 
-[www.lnelab.com](www.lnelab.com)
+[www.lnelab.com](https://www.lnelab.com)
 
 ## 开始上手
 
