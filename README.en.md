@@ -8,7 +8,7 @@
 
 ## LINK+
 
-![LINK+](assets/preview.png "LINK+")
+![LINK+](assets/preview_en.png "LINK+")
 
 The original intention behind the design of our keyboard, LINK+, is to help us use and personalize it more effectively. With the support of the navigation bar, LINK+ enables a simpler and more responsive experience for layout modifications, custom lighting, firmware updates, and other operations.
 
