@@ -33,8 +33,9 @@ LINK+ 是 LINK 的后继者，是由我们在 LINK 的基础上进行全面重�
 * [Releases on Gitee](https://gitee.com/lne-lab/link-plus/releases)
 
 ## 反馈
-* [Github](https://github.com/lnelab/link-plus/issues)
-* 官方 QQ 群 1107582873
+* 在 GitHub 上[创建问题](https://github.com/lnelab/link-plus/issues)
+* [Gitee](https://gitee.com/lne-lab) https://gitee.com/lne-lab
+* 官方 QQ 群1107582873
 
 ## 许可证
 Copyright (c) LNE Lab. All rights reserved.
