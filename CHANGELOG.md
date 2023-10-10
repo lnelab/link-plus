@@ -1,3 +1,13 @@
+# 3.0.3 (2023-9-14)
+
+### Bug Fixes
+- avoid error of "Automatic Selection"
+
+### Features
+- support for rendering joystick in container
+- gallery is open now
+- update the name of installation package
+
 # 3.0.2 (2023-9-14)
 
 ### Features
