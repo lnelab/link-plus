@@ -1,4 +1,4 @@
-# 3.0.3 (2023-9-14)
+# 3.0.3 (2023-10-11)
 
 ### Bug Fixes
 - avoid error of "Automatic Selection"
