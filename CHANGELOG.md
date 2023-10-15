@@ -1,3 +1,9 @@
+# 3.0.4 (2023-10-15)
+
+### Bug Fixes
+- avoid error of "Modifier + Key" 
+
+
 # 3.0.3 (2023-10-11)
 
 ### Bug Fixes
