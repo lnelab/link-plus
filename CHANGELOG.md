@@ -1,3 +1,22 @@
+# 3.1.0 (2023-12-7)
+
+### Breaking Changes
+- restructure the layout of keyboard console
+- obsolete deep sider layout
+
+### Bug Fixes
+- **macro editor**: avoid missing prompt letters
+- **keycode**: optimize keycode tabs
+
+### Features
+- redesign keycode list, use keycode grid instead
+- add keycode helper
+- redesign macro feature
+- redesign lighting feature
+- redesign Bluetooth feature
+- disable keyboard renderer for slave keyboard parts
+
+
 # 3.0.4 (2023-10-15)
 
 ### Bug Fixes
