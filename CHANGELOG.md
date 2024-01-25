@@ -1,3 +1,14 @@
+# 3.1.1 (2024-1-25)
+
+### Bug Fixes
+- fix incorrect sequence of layout options
+
+### Features
+- enable RGB underglow keycodes for **Marin Firmware**
+- add more RGB underglow effects for **Marin Firmware**
+- add keycode tip function
+
+
 # 3.1.0 (2023-12-7)
 
 ### Breaking Changes
