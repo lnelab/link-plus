@@ -1,3 +1,10 @@
+# 3.1.2 (2024-2-5)
+
+### Features
+- add new item "Upgrade" in Device panel, more convenient to get the latest DFU package
+- add more keycode tips
+- adjust UI
+
 # 3.1.1 (2024-1-25)
 
 ### Bug Fixes
