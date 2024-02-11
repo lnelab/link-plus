@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200px" src="https://www.lnelab.com/link_logo.svg" />
+  <img width="200px" src="https://www.lnelab.com/logo.svg" />
 </p>
 
 <h1 align="center">LINK+</h1>
