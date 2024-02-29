@@ -1,3 +1,9 @@
+# 3.1.3 (2024-2-29)
+
+### Features
+- add mousekey support for **Marin Firmware**
+- update dependencies
+
 # 3.1.2 (2024-2-5)
 
 ### Features
