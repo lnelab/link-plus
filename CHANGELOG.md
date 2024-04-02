@@ -1,3 +1,12 @@
+# 3.1.4 (2024-4-2)
+
+### Bug Fixes
+- fix UI issues: header bar & keycode card
+  
+### Features
+- add more special keys
+- optimize lighting control of rgblight/backlight
+
 # 3.1.3 (2024-2-29)
 
 ### Features
