@@ -1,3 +1,11 @@
+# 3.1.5 (2024-5-28)
+
+### Bug Fixes
+- fix UI issues: keyboard frame will render correctly even there is single key
+  
+### Features
+- refactor of Toolbox 
+
 # 3.1.4 (2024-4-2)
 
 ### Bug Fixes
