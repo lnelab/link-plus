@@ -1,3 +1,10 @@
+# 3.1.6 (2024-5-28)
+
+### Features
+- Layouts supports rendering dynamic keyboard frame from v3.1.6
+- support new keyboard: Meowtool X2
+
+
 # 3.1.5 (2024-5-28)
 
 ### Bug Fixes
@@ -5,6 +12,7 @@
   
 ### Features
 - refactor of Toolbox 
+
 
 # 3.1.4 (2024-4-2)
 
@@ -15,11 +23,13 @@
 - add more special keys
 - optimize lighting control of rgblight/backlight
 
+
 # 3.1.3 (2024-2-29)
 
 ### Features
 - add mousekey support for **Marin Firmware**
 - update dependencies
+
 
 # 3.1.2 (2024-2-5)
 
@@ -27,6 +37,7 @@
 - add new item "Upgrade" in Device panel, more convenient to get the latest DFU package
 - add more keycode tips
 - adjust UI
+
 
 # 3.1.1 (2024-1-25)
 
