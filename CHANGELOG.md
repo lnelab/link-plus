@@ -1,4 +1,4 @@
-# 3.1.6 (2024-5-28)
+# 3.1.6 (2024-8-4)
 
 ### Features
 - Layouts supports rendering dynamic keyboard frame after 3.1.6
