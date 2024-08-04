@@ -1,7 +1,7 @@
 # 3.1.6 (2024-5-28)
 
 ### Features
-- Layouts supports rendering dynamic keyboard frame from v3.1.6
+- Layouts supports rendering dynamic keyboard frame after 3.1.6
 - support new keyboard: Meowtool X2
 
 
