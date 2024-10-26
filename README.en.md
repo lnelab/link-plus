@@ -36,7 +36,7 @@ If you are interested in this project, please contact us!
 
 ## Troubleshooting for macOS users
 
-If system reports `"LINK+" Not Opened` error when opening app, running following command in terminal may fix:
+If system reports `"LINK+" Not Opened` error when opening app, running following command in `Terminal` may fix:
 
 ```
 sudo xattr -dr com.apple.quarantine [PATH_TO_APP]
