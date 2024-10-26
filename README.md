@@ -29,6 +29,7 @@ LINK+ 是 LINK 的后继者，是由我们在 LINK 的基础上进行全面重�
 请下载支持 Windows 和 macOS 操作系统的 [LINK+](https://github.com/lnelab/link-plus/releases)。 LINK+ 将定期更新，提供新功能和错误修复。如果你对这个项目感兴趣，请联系我们！
 
 ## 发行版
+
 * [Releases on GitHub](https://github.com/lnelab/link-plus/releases)
 * [Releases on Gitee](https://gitee.com/lne-lab/link-plus/releases)
 
@@ -47,9 +48,11 @@ _** 运行时需要输入管理员密码以验证身份。_
 _*** 这段命令会解除 `LINK+` 的运行限制，在运行前请确保您信任该软件及其开发者。_
 
 ## 反馈
+
 * 在 GitHub 上[创建问题](https://github.com/lnelab/link-plus/issues)
 * [Gitee](https://gitee.com/lne-lab) https://gitee.com/lne-lab
 * 官方 QQ 群1107582873
 
 ## 许可证
+
 Copyright (c) LNE Lab. All rights reserved.

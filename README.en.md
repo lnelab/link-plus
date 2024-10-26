@@ -30,6 +30,7 @@ Please download [LINK](https://github.com/lnelab/link-plus/releases) for Windows
 If you are interested in this project, please contact us!
 
 ## Releases
+
 * [Releases on GitHub](https://github.com/lnelab/link-plus/releases)
 * [Releases on Gitee](https://gitee.com/lne-lab/link-plus/releases)
 
@@ -48,9 +49,11 @@ _** Password of `root` account is required for authentication._
 _*** This command removes `quarantine` attribute of `LINK+` app, make sure you trust the app and developer before running._
 
 ## Feedback
+
 * [Create an issue](https://github.com/lnelab/link-plus/issues) on GitHub
 * [Gitee](https://gitee.com/lne-lab) https://gitee.com/lne-lab
 * Official QQ Group 1107582873
 
 ## License
+
 Copyright (c) LNE Lab. All rights reserved.
