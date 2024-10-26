@@ -33,6 +33,20 @@ If you are interested in this project, please contact us!
 * [Releases on GitHub](https://github.com/lnelab/link-plus/releases)
 * [Releases on Gitee](https://gitee.com/lne-lab/link-plus/releases)
 
+## Troubleshooting for macOS users
+
+If system reports `"LINK+" Not Opened` error when opening app, running following command in terminal may fix:
+
+```
+sudo xattr -dr com.apple.quarantine [PATH_TO_APP]
+```
+
+_* Replace `[PATH_TO_APP]` with the path of `LINK+` app on your device, you can drag and drop from `Finder` app to apply._
+
+_** Password of `root` account is required for authentication._
+
+_*** This command removes `quarantine` attribute of `LINK+` app, make sure you trust the app and developer before running._
+
 ## Feedback
 * [Create an issue](https://github.com/lnelab/link-plus/issues) on GitHub
 * [Gitee](https://gitee.com/lne-lab) https://gitee.com/lne-lab
