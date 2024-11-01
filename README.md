@@ -28,14 +28,31 @@ LINK+ 是 LINK 的后继者，是由我们在 LINK 的基础上进行全面重�
 
 请下载支持 Windows 和 macOS 操作系统的 [LINK+](https://github.com/lnelab/link-plus/releases)。 LINK+ 将定期更新，提供新功能和错误修复。如果你对这个项目感兴趣，请联系我们！
 
-### 发行版
+## 发行版
+
 * [Releases on GitHub](https://github.com/lnelab/link-plus/releases)
 * [Releases on Gitee](https://gitee.com/lne-lab/link-plus/releases)
 
+## macOS 运行说明
+
+如果在 macOS 中打开时收到报错 `未打开“LINK+”`，您可以通过在`终端`中运行以下命令解决：
+
+```
+sudo xattr -dr com.apple.quarantine [应用程序路径]
+```
+
+_* 使用 `LINK+` 的实际路径代替 `[应用程序路径]`，您可以从`访达`中拖放以自动填充。_
+
+_** 运行时需要输入管理员密码以验证身份。_
+
+_*** 这段命令会解除 `LINK+` 的运行限制，在运行前请确保您信任该软件及其开发者。_
+
 ## 反馈
+
 * 在 GitHub 上[创建问题](https://github.com/lnelab/link-plus/issues)
 * [Gitee](https://gitee.com/lne-lab) https://gitee.com/lne-lab
 * 官方 QQ 群1107582873
 
 ## 许可证
+
 Copyright (c) LNE Lab. All rights reserved.
