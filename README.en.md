@@ -26,7 +26,7 @@ LINK+ is the successor to LINK. It is a completely restructured and brand-new wo
 
 ## Getting Started
 
-Please download [LINK](https://github.com/lnelab/link-plus/releases) for Windows & Mac. LINK is updated monthly with new features and bug fixes.
+Please download [LINK+](https://github.com/lnelab/link-plus/releases) for Windows & macOS. LINK+ is updated regularly with new features and bug fixes.
 If you are interested in this project, please contact us!
 
 ## Releases
