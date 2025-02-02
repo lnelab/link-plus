@@ -1,3 +1,15 @@
+# 3.1.7 (2025-2-2)
+
+### Breaking Changes
+- new embedded Tool: Bluetooth DFU (OTA)
+- rename "DFU Tool" to "USB DFU"
+
+### Features
+- update keyboard frame
+
+
+
+
 # 3.1.6 (2024-8-4)
 
 ### Features
